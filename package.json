@@ -1,6 +1,6 @@
 {
   "name": "someteacode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic demonstration app",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "cod_for_tea": "1.0.0",
+    "ironeelephant":"1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
